@@ -1,0 +1,24 @@
+Category,Type of inference,Description,Inference
+,Inferred skills,Based on your experiences on your profile and other factors.,algorithms; computer networking; digital literacy; research; data storage technologies; human computer interaction; statistics; system administration; apache spark; social media; user experience design (ued); cybersecurity; user experience (ux); computer science; management consulting; management accounting; development tools
+,Inferred birth year,Based on the years of experience on your profile and other factors.,1997
+,Inferred gender,Based on your first name and other factors.,MALE
+,Interests,"Member's inferred interests based on historical feed interactions, plus members' common industries, companies, skills, titles, and groups.",
+,Inferred spoken languages,Based on your profile; your activity on LinkedIn; and other factors.,en
+Career inferences,Senior leader,Executive leader at your company. Based on your experience on your profile and other factors.,No
+Career inferences,Growth stage of career,Based on factors such as your industry and experience on your profile.,No
+Career inferences,Student,Based on your education on your profile and other factors.,Yes
+Career inferences,Unemployment Status,Based on the current position on your profile and other factors.,No
+Career inferences,Recruiter,Based on factors such as your experience and profile headline.,No
+Career inferences,Likelihood to be a marketer,Based on your profile and other factors.,0.008506942256753853
+Career inferences,Business traveler,Based on factors such as your activity on LinkedIn and your profile.,true
+Career inferences,Early stage of career,Early stage of career but not a student. Based on factors such as your industry and experience on your profile.,No
+Career inferences,Career stability,"Employee with consistency in industry, company, job title, and other factors.",No
+Career inferences,People leader,People leader at your company. Based on your experience on your profile and other factors.,No
+Career inferences,Human resources professional,Based on factors such as your industry and profile headline.,No
+Career inferences,Job seeker,Based on your activity on LinkedIn and other factors.,Yes
+Career inferences,Sales professional,Based on factors such as your experience and profile headline.,No
+Career inferences,Small or medium sized business owner,"Based on your current company on your profile, your job title, and other factors.",No
+Inferred interests,Interested in higher education,Based on whether you follow companies in the higher education industry.,true
+Inferred interests,Interested in media about technology,"Interested in technology media outlets, such as Venturebeat, Ted Conferneces, Wired, TechCrunch, Gizmodo, Engadget, Mashable, PCMag, Fast Company, Popular Science, The Verge, and Tech Dirt. Based on factors such as companies followed.",true
+Job search inferences,Interested in a new job,Based on whether you searched for a job or clicked on a posting in the past 30 days.,true
+LinkedIn Premium inferences,Likely to buy a Premium subscription for job seeking,"Based on factors such as your experience on your profile, your job-seeking activity on LinkedIn, and your history engaging with Premium on LinkedIn.",true
