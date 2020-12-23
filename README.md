@@ -13,7 +13,7 @@ Determine the best approach to building a recommender system that pairs job seek
 ## Table of contents
 | File Name                      | Description                                                                                       |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
-| [01-eda-jobs-data.ipynb]("01-eda-jobs-data.ipynb")                   | Job postings data cleaning process. Final cleaned job posting data export                         |
+| [01-eda-jobs-data.ipynb](01-eda-jobs-data.ipynb)                   | Job postings data cleaning process. Final cleaned job posting data export                         |
 | [02-process-linkedin-data.ipynb]("code/02-process-linkedin-data.ipynb") | Cleaning linkedin profile data into  a single dataframe. Exporting final linkedin user dataframe. |
 | [03-CVec.ipynb]("code/03-CVec.ipynb")                  | Recommender system - CVec process                                                                 |
 | [03-Spacy.ipynb]("code/03-Spacy.ipynb")                 | Recommender system - SpaCy process                                                                |
