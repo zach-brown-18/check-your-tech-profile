@@ -1,5 +1,5 @@
 # Tech Job Recommender
-### Nolan Arendt, Zachary Brown, Albert Frantz
+##### Nolan Arendt, Zachary Brown, Albert Frantz
 --- 
 ## Goal
 Make the transition into the tech industry less intimidating by matching unemployed individuals to their best fit in tech.  
@@ -10,8 +10,16 @@ Determine the best approach to building a recommender system that pairs job seek
 
 ---
 
-A table of contents, which should indicate which notebook or scripts a stakeholder should start with, and a link to an executive summary.
- 
+## Table of contents
+| File Name                      | Description                                                                                       |
+|--------------------------------|---------------------------------------------------------------------------------------------------|
+| [01-eda-jobs-data.ipynb]("./code/01-eda-jobs-data.ipynb")                   | Job postings data cleaning process. Final cleaned job posting data export                         |
+| [02-process-linkedin-data.ipynb]("./code/02-process-linkedin-data.ipynb") | Cleaning linkedin profile data into  a single dataframe. Exporting final linkedin user dataframe. |
+| [03-CVec.ipynb]("./code/03-CVec.ipynb")                  | Recommender system - CVec process                                                                 |
+| [03-Spacy.ipynb]("./code/03-Spacy.ipynb")                 | Recommender system - SpaCy process                                                                |
+| [03-TfidfVectorizer.ipynb]("./code/03-TfidfVectorizer.ipynb")       | Recommender system - TfidfVectorizer                                                              |
+| [03-KNN.ipynb]("./code/03-KNN.ipynb.ipynb")                   | Recommender system - KNN                                                                          |
+
 ---
 
 ## The Data
@@ -31,17 +39,17 @@ In the end our final cleaned jobs dataset had 16432 observations.
 
 ---
 
-## Recommender System:
+## Recommender System
 To best match people to the tech job title that best fits their Linkedin profile we used recommender systems. We produced three recommender systems based on three different techniques: Count Vectorization, KNN and SpaCy.  
   
 Ultimately we found that the Count Vectorization model appeared to perform the best.  
 
 ---
-## Software requirements:
+## Software requirements
 conda, pandas, numpy, re, httpimport, sklearn, IPython, SpaCy (and en_core_web_lg model)
 
 ---
-## Sources:
+## Sources
 Kaggle Dataset: https://www.kaggle.com/PromptCloudHQ/usbased-jobs-from-dicecom  
 LinkedIn User Data: https://www.linkedin.com/in/user_data  
 Reddit Visualization Unemployment Claims: https://www.reddit.com/user/DorsaAmir/  
