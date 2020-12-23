@@ -13,12 +13,21 @@ Determine the best approach to building a recommender system that pairs job seek
 ## Table of contents
 | File Name                      | Description                                                                                       |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
-| [01-eda-jobs-data.ipynb]("./code/01-eda-jobs-data.ipynb")                   | Job postings data cleaning process. Final cleaned job posting data export                         |
-| [02-process-linkedin-data.ipynb]("./code/02-process-linkedin-data.ipynb") | Cleaning linkedin profile data into  a single dataframe. Exporting final linkedin user dataframe. |
-| [03-CVec.ipynb]("./code/03-CVec.ipynb")                  | Recommender system - CVec process                                                                 |
-| [03-Spacy.ipynb]("./code/03-Spacy.ipynb")                 | Recommender system - SpaCy process                                                                |
-| [03-TfidfVectorizer.ipynb]("./code/03-TfidfVectorizer.ipynb")       | Recommender system - TfidfVectorizer                                                              |
-| [03-KNN.ipynb]("./code/03-KNN.ipynb.ipynb")                   | Recommender system - KNN                                                                          |
+| [01-eda-jobs-data.ipynb]("code/01-eda-jobs-data.ipynb")                   | Job postings data cleaning process. Final cleaned job posting data export                         |
+| [02-process-linkedin-data.ipynb]("code/02-process-linkedin-data.ipynb") | Cleaning linkedin profile data into  a single dataframe. Exporting final linkedin user dataframe. |
+| [03-CVec.ipynb]("code/03-CVec.ipynb")                  | Recommender system - CVec process                                                                 |
+| [03-Spacy.ipynb]("code/03-Spacy.ipynb")                 | Recommender system - SpaCy process                                                                |
+| [03-TfidfVectorizer.ipynb]("code/03-TfidfVectorizer.ipynb")       | Recommender system - TfidfVectorizer                                                              |
+| [03-KNN.ipynb]("code/03-KNN.ipynb.ipynb")                   | Recommender system - KNN                                                                          |
+
+| Data                                  | Description                      |
+|---------------------------------------|----------------------------------|
+| [dice.csv]("data/dice.csv")                          | original Kaggle job posting data |
+| [job_postings.csv]("data/job_postings.csv")                  | Cleaned version of the dice.csv  |
+| [Albert_LinkedInData.csv]()           | Albert example linkedin data     |
+| [Nolan_LinkedInData-12-16-2020.csv]() | Nolan example linkedin data      |
+| [Ye_LinkedInData.csv]()               | Ye example linkedin data         |
+| [Zach_LinkedInData_12-16-2020.csv]()  | Zach example linkedin data       |
 
 ---
 
