@@ -10,6 +10,9 @@ Determine the best approach to building a recommender system that pairs job seek
 
 ---
 
+**A note on the notebooks**  
+The tables in the recommender system notebooks (which start with a 03) render properly once the notebook is downloaded and run. For best results, please download these files and run them for properly formatted tables.  
+
 ## Table of contents
 | File Name                      | Description                                                                                       |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
